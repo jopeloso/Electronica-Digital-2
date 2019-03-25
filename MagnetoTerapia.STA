@@ -1,0 +1,72 @@
+
+ROM used: 883 (22%)
+          883 (22%) including unused fragments
+
+          0 Average locations per line
+          2 Average locations per statement
+
+RAM used: 25 (7%) at main() level
+          47 (13%) worst case
+
+Stack used: 8 worst case (out of 8 total available)
+
+Lines Stmts  %   Files
+----- ----- ---  -----
+  198    76  15  MagnetoTerapia.c
+  315     0   0  ..\..\..\..\Program Files (x86)\PICC\devices\16f88.h
+  409   121  23  ..\..\..\..\Program Files (x86)\PICC\drivers\string.h
+   28     0   0  ..\..\..\..\Program Files (x86)\PICC\drivers\stddef.h
+   28     0   0  ..\..\..\..\Program Files (x86)\PICC\drivers\ctype.h
+ 2172   260  50  ..\..\..\..\Program Files (x86)\PICC\drivers\math.h
+  348    67  13  ..\..\..\..\Program Files (x86)\PICC\drivers\lcd.c
+----- -----
+ 3498   524 Total
+
+Page ROM  %  RAM   Vol Diff  Functions:
+---- --- --- ---   --- ----  ----------
+0     21   2   1             @delay_ms1
+0     63   7  10             @FLT
+0     29   3   2             @ITOF
+0      8   1   0             @const305
+ Inline        3   587  6.0  lcd_read_byte
+0      6   1   0    59  4.2  lcd_read_nibble
+0     18   2   1   174  3.9  lcd_send_nibble
+0     86  10   3   313  3.4  lcd_send_byte
+0     68   8   2   581  5.9  lcd_init
+0     18   2   4   186  5.5  lcd_gotoxy
+ Inline        1   272  4.1  lcd_putc
+0      8   1   0             @const328
+0      8   1   0             @const330
+0      8   1   0             @const332
+0      8   1   0             @const334
+0     93  11   2   297  4.2  TEMP
+0     21   2   5             @MUL1616
+0     37   4   5             @DIV1616
+0     10   1   0    32  1.0  timer0
+0     25   3   0   275  4.6  timer1
+0     49   6   0   245  1.8  MENU
+0     78   9   2             @PSTRINGC_322
+0    156  18   1  1098  7.3  MAIN
+0      8   1   0             @goto11035
+
+Program metrics:
+    Functions               12
+    Statements              524
+    Comments                595
+    Volume (V)              6630
+    Difficilty (D)          49.5
+    Effort to implement (E) 328460
+    Time to implement (T)   5 hours, 4 minutes
+    Est Delivered Bugs (B)  2
+    Cyclomatic Complexity   15
+    Maintainability (MI)    27
+
+ Segment     Used  Free
+-----------  ----  ----
+00000-00003     4  0  
+00004-00038    53  0  
+00039-007FF   826  1165  
+00800-00FFF     0  2048  
+
+
+

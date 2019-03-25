@@ -1,0 +1,90 @@
+[PROJECT]
+Target=MagnetoTerapia.hex
+Processor_Text=PIC16F88
+CCSVersion=5.059
+Compiler=PCM
+[Target Data]
+FileList=MagnetoTerapia.c
+[MagnetoTerapia.c]
+Type=4
+[mru-list]
+1=MagnetoTerapia.c
+
+[defines]
+buildcount=137
+
+[ProjectLog]
+Days=3
+D1=15-11-2016
+D1_L=9
+D1_L1=[49845]Stopped Editing.
+D1_L2=[49907]Started Editing.
+D1_L3=[50342]Stopped Editing.
+D1_L4=[50426]Started Editing.
+D1_L5=[50564]Project Closed.
+D1_L6=[51269]Project Opened.
+D1_L7=[51306]Started Editing.
+D1_L8=[51561]Stopped Editing.
+TotalEdit=348
+TotalDebug=0
+D1_E=5
+D1_D=0
+D1_L9=[51561]Project Closed.
+D2=17-11-2016
+D2_L=12
+D2_L1=[42755]Project Opened.
+D2_L2=[43743]Started Editing.
+D2_L3=[44044]Stopped Editing.
+D2_L4=[44152]Started Editing.
+D2_L5=[45031]Stopped Editing.
+D2_L6=[45302]Started Editing.
+D2_L7=[45779]Stopped Editing.
+D2_E=66
+D2_D=0
+D2_L8=[45779]Project Closed.
+D2_L9=[48668]Project Opened.
+D2_L10=[48766]Started Editing.
+D2_L11=[51602]Stopped Editing.
+D2_L12=[51602]Project Closed.
+D3=19-11-2016
+D3_L=28
+D3_L1=[59563]Project Opened.
+D3_L2=[59599]Started Editing.
+D3_L3=[62717]Stopped Editing.
+D3_L4=[62956]Started Editing.
+D3_L5=[67962]Stopped Editing.
+D3_L6=[68629]Started Editing.
+D3_L7=[69380]Stopped Editing.
+D3_L8=[70290]Started Editing.
+D3_L9=[70593]Stopped Editing.
+D3_L10=[71160]Started Editing.
+D3_L11=[75332]Stopped Editing.
+D3_L12=[75364]Started Editing.
+D3_L13=[77895]Stopped Editing.
+D3_L14=[78102]Started Editing.
+D3_L15=[78408]Stopped Editing.
+D3_L16=[79751]Started Editing.
+D3_L17=[80333]Stopped Editing.
+D3_L18=[80568]Started Editing.
+D3_L19=[81301]Stopped Editing.
+D3_L20=[81339]Started Editing.
+D3_L21=[82314]Stopped Editing.
+D3_L22=[82420]Started Editing.
+D3_L23=[83252]Stopped Editing.
+D3_L24=[84874]Started Editing.
+D3_L25=[85182]Stopped Editing.
+D3_L26=[85191]Started Editing.
+D3_L27=[85772]Stopped Editing.
+D3_E=277
+D3_D=0
+D3_L28=[85772]Project Closed.
+
+[Opened Files]
+1=MagnetoTerapia.c
+t1=237
+Count=1
+2=..\..\..\..\Program Files (x86)\PICC\Drivers\lcd.c
+t2=85
+[Units]
+Count=1
+1=MagnetoTerapia (main)

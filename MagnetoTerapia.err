@@ -1,0 +1,5 @@
+>>> Warning 203 "MagnetoTerapia.c" Line 151(1,1): Condition always TRUE
+>>> Warning 216 "MagnetoTerapia.c" Line 199(2,3): Interrupts disabled during call to prevent re-entrancy:  (@delay_ms1)
+>>> Warning 216 "MagnetoTerapia.c" Line 199(2,3): Interrupts disabled during call to prevent re-entrancy:  (TEMP)
+      Memory usage:   ROM=22%      RAM=7% - 13%
+      0 Errors,  3 Warnings.
